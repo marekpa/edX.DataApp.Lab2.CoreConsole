@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edX.DataApp.Lab2.CoreConsole", "edX.DataApp.Lab2.CoreConsole\edX.DataApp.Lab2.CoreConsole.csproj", "{53A48867-E276-411B-82E1-1E94EDF516D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A48867-E276-411B-82E1-1E94EDF516D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A48867-E276-411B-82E1-1E94EDF516D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A48867-E276-411B-82E1-1E94EDF516D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A48867-E276-411B-82E1-1E94EDF516D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F33C99-31B8-48B2-B26E-BE72B9A978FA}
+	EndGlobalSection
+EndGlobal
